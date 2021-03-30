@@ -4,13 +4,9 @@ NTU School of Computer Science and Engineering (AY2019/20 S2)
 CZ1015 Introduction to Data Science & Artificial Intelligence
 
 ### Introduction
-Dataset: https://www.kaggle.com/airbnb/seattle
-
-Problem Statement: What are the factors that make a listing more expensive?
-
-Problem: Regression
-
-Regression Models Performed:
+***Dataset***: https://www.kaggle.com/airbnb/seattle  
+***Problem Statement***: What are the factors that make a listing more expensive? (Regression)  
+***Regression Models Performed***:
   - Linear Regression
   - Ridge Regression
   - Lasso Regression
@@ -19,7 +15,7 @@ Regression Models Performed:
   - CatBoost
 
 ### Summary: Exploratory Analysis
-Broken into 3 sub-problems:
+***Broken into 3 sub-problems***:
 1. What property/room types and facilities affect its price?
 2. Are there particular locations in Seattle where AirBnB listings fetch higher prices?
 3. Does textual data in the summary and sentiments of reviews affect price?
