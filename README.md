@@ -2,6 +2,7 @@
 
 NTU School of Computer Science and Engineering (AY2019/20 S2)
 CZ1015 Introduction to Data Science & Artificial Intelligence
+Done in collaboration with Mohamed Irfan Bin Shahul Hameed & Quah Dian Wei
 
 ### Introduction
 ***Dataset***: https://www.kaggle.com/airbnb/seattle  
